@@ -1,0 +1,11 @@
+export { default as HomePage } from './HomePage';
+export { default as BlogPage } from './BlogPage';
+export { default as BooksPage } from './BooksPage';
+export { default as AnnualBooksPage } from './AnnualBooksPage';
+export { default as ReadingHistoryPage } from './ReadingHistoryPage';
+export { default as InfluentialPage } from './InfluentialPage';
+export { default as MusicPage } from './MusicPage';
+export { default as AnnualMusicPage } from './AnnualMusicPage';
+export { default as LivePage } from './LivePage';
+export { default as ResonancePage } from './ResonancePage';
+export { default as ResearchPage } from './ResearchPage';
