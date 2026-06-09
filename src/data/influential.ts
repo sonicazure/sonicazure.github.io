@@ -45,7 +45,7 @@ export const influentialBooks: Discipline[] = [
           { name: "莎士比亚", nameEn: "William Shakespeare", works: [{ title: "《李尔王》", year: 2019, note: "" }, { title: "*《哈姆雷特》", year: 2019, note: "" }, { title: "《科利奥兰纳斯》", year: 2023, note: "" }, { title: "《理查二世》", year: 2026, note: "" }, { title: "《亨利四世》", year: 2026, note: "" }] },
           { name: "卡尔德隆", nameEn: "Pedro Calderón de la Barca", works: [{ title: "《人生如梦》", year: 2021, note: "" }, { title: "《神奇的魔法师》", year: 2026, note: "" }] },
           { name: "弥尔顿", nameEn: "John Milton", works: [{ title: "《失乐园》", year: 2019, note: "" }] },
-          { name: "莫里哀", nameEn: "Molière", works: [{ title: "《恨世者》", year: 2020, note: "" }] },
+          { name: "莫里哀", nameEn: "Molière", works: [{ title: "《恨世者》", year: 2020, note: "" }, { title: "《伪君子》", year: 2021, note: "" }] },
           { name: "帕斯卡尔", nameEn: "Blaise Pascal", works: [{ title: "《思想录》", year: 2021, note: "" }] },
           { name: "拉辛", nameEn: "Jean Racine", works: [{ title: "*《伊菲革涅亚》", year: 2023, note: "" }] },
           { name: "笛福", nameEn: "Daniel Defoe", works: [{ title: "《鲁滨逊漂流记》", year: 2023, note: "" }] },
